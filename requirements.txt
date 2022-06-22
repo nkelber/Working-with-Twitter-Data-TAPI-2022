@@ -7,6 +7,6 @@ matplotlib>=3.5.1, <4
 pandas>=1.4.2, <2
 wordcloud>=1.8.1, <2
 spacy>=3.2.4, <4
-twarc
-twarc-csv
-plotly
+twarc==2.10.4
+twarc-csv==0.5.2
+plotly==5.8.2
